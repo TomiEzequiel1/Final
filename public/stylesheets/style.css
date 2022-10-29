@@ -1,0 +1,75 @@
+/*header*/
+body {
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color: rgb(113, 196, 252);
+  padding: 0;
+  line-height: 20px;
+}
+
+header h1 {
+  color: aliceblue; /*rgb(66, 166, 233)*/
+  display: inline-block;
+  font-size: 40px;
+  font-weight: 100;
+  font-style: italic;
+  position: relative;
+  bottom: 35px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+}
+
+header ul li {
+  color: aliceblue;
+  display: flex;
+  justify-content: end;
+  align-items: flex-end;
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  
+  
+  
+}
+/* fin header*/
+/* footer */
+
+footer {
+  background: rgb(66, 166, 233);
+  clear: both;
+  color:  white;
+  padding: 3em 0;
+  margin-top: 2em;
+}
+
+footer p {
+  font-size: 15px;
+  font-style: italic;
+  text-align: center;
+  margin: 0;
+}
+ 
+/* fin footer */
+
+/* app.css */
+
+body {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.holder {
+  width: 960px;
+  margin: 0 auto;
+}
+
+h2 {
+  font-weight: 400;
+  color: rgb(66, 166, 233);
+  margin: 0 0 1em;
+  font-weight: 400;
+}
+
+/* fin app.css */
